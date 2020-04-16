@@ -1,6 +1,6 @@
 # Flutter TensorFlow Speech
 
-[![pub package](https://img.shields.io/pub/v/flutter_cognito_plugin.svg?style=for-the-badge)](https://pub.dartlang.org/packages/tf_speech)
+[![pub package](https://img.shields.io/pub/v/tf_speech.svg?style=for-the-badge)](https://pub.dartlang.org/packages/tf_speech)
 
 The TensorFlow [audio recognition tutorial](https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/audio_recognition.md), for use in flutter, with an API that you'll love to use!
 
