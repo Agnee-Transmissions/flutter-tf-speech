@@ -15,7 +15,7 @@ await for (var result in speech.stream) {
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=USiOuBkVEIs" target="_blank"><img src="http://img.youtube.com/vi/USiOuBkVEIs/0.jpg" alt="Example app video" width="240" height="180" border="10"/></a>
 
-[Source code](example/app/main.dart).
+[Source code](example/lib/main.dart).
 
 ---
 
